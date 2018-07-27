@@ -22,4 +22,4 @@ Complexity:
 expected worst-case time complexity is O(N);
 expected worst-case space complexity is O(N) (not counting the storage required for input arguments)
 
-In this project we can see the result of this example exercise from Codity written in python language. 
+In this project we can see the result of this example exercise from Codity written in python language. The only problem is that its complexity is O(N**2).
